@@ -131,3 +131,5 @@ git commit --amend -m "Updated message for the previous commit"
 ![Привет](1.jpeg)
 
 ## Цитаты
+
+Конфликт
