@@ -46,3 +46,17 @@ git branch new_branch_name
 ```
 git commit --amend -m "Updated message for the previous commit"
 ```
+
+# Краткая инструкция по MarkDown
+
+## Списки
+
+## Горизонтальная черта
+
+## Ссылки
+
+## Зачеркивание
+
+## Картинки
+
+## Цитаты
