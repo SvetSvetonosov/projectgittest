@@ -92,6 +92,9 @@ git commit --amend -m "Updated message for the previous commit"
     
 ## Горизонтальная черта
 
+"hr" создается тремя дефисами:
+---
+
 ## Ссылки
 
 ## Зачеркивание
