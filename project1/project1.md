@@ -34,3 +34,9 @@ git commit -m "Your short summary about the commit"
 ```
 git log -p
 ```
+
+## Создание новой ветки и переход в неё
+Создать новую ветку можно с помощью параметра branch , указав имя ветки:
+```
+git branch new_branch_name
+```
