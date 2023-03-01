@@ -115,6 +115,9 @@ git commit --amend -m "Updated message for the previous commit"
 
 ## Зачеркивание
 
+В GFM добавлено зачеркивание текста: две тильды `~` до и
+после текста.
+
 ## Картинки
 
 ## Цитаты
